@@ -1,0 +1,11 @@
+.container-1 {
+  width: 1000px;
+  margin: 20px 30px;
+  padding: 10px;
+}
+
+.accent {
+  color: red;
+  background-color: aqua;
+  padding: 0 30px;
+}
